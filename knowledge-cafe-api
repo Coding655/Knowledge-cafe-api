@@ -6,7 +6,7 @@
         "author": "Jane Doe",
         "author_img": "https://i.ibb.co/C5dQXWL/27470334-7309681.jpg",
         "posted_date": "2024-06-01",
-        "reading_time": "5 min",
+        "reading_time": "5 ",
         "hashtags": ["#astronomy", "#space", "#science"]
     },
     {
@@ -16,7 +16,7 @@
         "author": "John Smith",
         "author_img": "https://i.ibb.co/swrd6hh/27470335-7309683.jpg",
         "posted_date": "2024-06-10",
-        "reading_time": "8 min",
+        "reading_time": "8",
         "hashtags": ["#cooking", "#recipes", "#food"]
     },
     {
@@ -26,7 +26,7 @@
         "author": "Alice Johnson",
         "author_img": "https://i.ibb.co/gwDY3z9/27470341-7294795.jpg",
         "posted_date": "2024-06-15",
-        "reading_time": "6 min",
+        "reading_time": "6",
         "hashtags": ["#travel", "#adventure", "#nature"]
     },
     {
@@ -36,7 +36,7 @@
         "author": "Bob Brown",
         "author_img": "https://i.ibb.co/CPM4wMh/27470349-7309670.jpg",
         "posted_date": "2024-06-20",
-        "reading_time": "10 min",
+        "reading_time": "10 ",
         "hashtags": ["#technology", "#AI", "#innovation"]
     },
     {
@@ -46,7 +46,7 @@
         "author": "Emma Wilson",
         "author_img": "https://i.ibb.co/J2zDVnz/27470351-7342052.jpg",
         "posted_date": "2024-06-25",
-        "reading_time": "4 min",
+        "reading_time": "4",
         "hashtags": ["#wellness", "#meditation", "#mindfulness"]
     }
 ]
